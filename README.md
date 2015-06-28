@@ -1,6 +1,6 @@
 #profile-pic-filter
 
-Facebook-like tool for aply a image as a filter in your profile pic.
+Facebook-like tool for apply a image as a filter in your profile pic.
 
 ####Dependencies
  - PIL or PILLOW 
